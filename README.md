@@ -2,10 +2,14 @@
 
 ## Group T01G06
 
+<div align="center">
+
 | Name             | Number    | E-Mail             |
 | ---------------- | --------- | ------------------ |
 | Davide Teixeira         | 202109860 | up202109860@up.pt |
 | Bruno Alves         | 201905971 | up201905971@up.pt                |
+
+</div>
 
 ## Some Useful Commands for controlling the bee
 
