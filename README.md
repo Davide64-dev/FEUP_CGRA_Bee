@@ -1,4 +1,6 @@
-# CG 2023/2024
+# Computer Graphics 2023/2024
+
+This repository contains a 3D game developed using JavaScript and the WebGL API, featuring a simple interactive interface. The creation of this program is part of the curriculum for the [Computer Graphics](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520332) course.
 
 ## Group T01G06
 
